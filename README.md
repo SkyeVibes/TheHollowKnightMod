@@ -1,6 +1,6 @@
 # Hollow
 This is a mod aiming to bring Hollow Knight content to Terraria.
-Got a suggestion or a bug report? Head to our Discord Server (the homepage) and send it to the respective channel.
+Got a suggestion or a bug report? Head to our Discord Server (https://discord.gg/pRE2WSQAb6) and send it to the respective channel.
 -------------------------------------------
 This mod currently contains:
 5 nails!
